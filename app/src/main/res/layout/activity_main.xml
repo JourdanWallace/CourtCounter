@@ -21,9 +21,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="20dp"
-                android:textSize="36sp"
+                android:textSize="26sp"
                 android:gravity="center"
-                android:hint="Team 1"
+                android:hint="Team Trump"
                 android:imeOptions="actionDone"
                 android:inputType="text"
                 android:background="#C62828"
@@ -36,7 +36,7 @@
                 android:textSize="26sp"
                 android:text="Score:"
                 android:gravity="center"
-                android:background="#424242"
+                android:background="#F44336"
                 android:textColor="#FFFFFF"/>
 
             <TextView
@@ -46,7 +46,7 @@
                 android:padding="20dp"
                 android:textSize="50sp"
                 android:gravity="center"
-                android:background="#FFB74D"
+                android:background="#D32F2F"
                 android:textColor="#FFFFFF"/>
 
             <Button
@@ -72,9 +72,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="20dp"
-                android:textSize="36sp"
+                android:textSize="26sp"
                 android:gravity="center"
-                android:hint="Team 2"
+                android:hint="Team Clinton"
                 android:imeOptions="actionDone"
                 android:inputType="text"
                 android:background="#1565C0"
@@ -87,7 +87,7 @@
                 android:textSize="26sp"
                 android:text="Score:"
                 android:gravity="center"
-                android:background="#F5F5F5"
+                android:background="#448AFF"
                 android:textColor="#424242"/>
 
             <TextView
@@ -97,7 +97,7 @@
                 android:padding="20dp"
                 android:textSize="50sp"
                 android:gravity="center"
-                android:background="#81C784"
+                android:background="#1565C0"
                 android:textColor="#FFFFFF"/>
 
             <Button
